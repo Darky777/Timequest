@@ -4,3 +4,6 @@
 **/simulation
 **/*.bak
 **/*.qws
+**/*.txt
+**/greybox_tmp
+**/*.ppf

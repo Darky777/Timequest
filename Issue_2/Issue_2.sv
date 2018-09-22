@@ -1,7 +1,7 @@
 module Issue_2 (
     // general
     input        clk , // Clock
-    output logic led
+    output logic led ,
     // spi
     input        cs_n,
     input        sdi ,
